@@ -13,14 +13,15 @@ Iterative Improvement: Employ repetitive learning techniques to enhance the AIâ€
 This project demonstrates the transformative potential of AI and reinforcement learning. By developing a self-learning Snake game, it provides:
 
 **Autonomous Learning:** Showcase the ability of AI to learn and improve without human intervention.
-**Algorithmic Mastery:** Develop and refine complex algorithms that drive autonomous decision-making.
-**Optimized Performance:** Achieve high scores in the game through continuous learning and optimization.
-**Practical AI Application:** Apply theoretical deep RL concepts to a practical and engaging project.
-Technologies and Methods
-**Programming Languages:** Python for implementing deep reinforcement learning algorithms.
-**Deep RL Algorithms:** Utilization of state-of-the-art deep reinforcement learning techniques.
-**AI and Machine Learning:** Integration of AI models that learn and adapt through gameplay.
-**Iterative Learning:** Continuous improvement through repeated gameplays and learning cycles.
+
+  **Algorithmic Mastery:** Develop and refine complex algorithms that drive autonomous decision-making.
+  **Optimized Performance:** Achieve high scores in the game through continuous learning and optimization.
+  **Practical AI Application:** Apply theoretical deep RL concepts to a practical and engaging project.
+  Technologies and Methods
+  **Programming Languages:** Python for implementing deep reinforcement learning algorithms.
+  **Deep RL Algorithms:** Utilization of state-of-the-art deep reinforcement learning techniques.
+  **AI and Machine Learning:** Integration of AI models that learn and adapt through gameplay.
+  **Iterative Learning:** Continuous improvement through repeated gameplays and learning cycles.
 
 **Practical Application**
 This project brings theoretical AI and deep RL concepts to life through a practical, engaging application. The Snake game serves as a dynamic platform for demonstrating autonomous learning, where the AI model learns to navigate and play the game effectively. Through this iterative learning process, the AI maximizes its score, showcasing the potential of reinforcement learning in real-world scenarios.
