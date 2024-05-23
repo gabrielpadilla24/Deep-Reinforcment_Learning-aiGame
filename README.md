@@ -18,12 +18,18 @@ This project demonstrates the transformative potential of AI and reinforcement l
 **Autonomous Learning:** Showcase the ability of AI to learn and improve without human intervention.
 
   **Algorithmic Mastery:** Develop and refine complex algorithms that drive autonomous decision-making.
+  
   **Optimized Performance:** Achieve high scores in the game through continuous learning and optimization.
+  
   **Practical AI Application:** Apply theoretical deep RL concepts to a practical and engaging project.
   Technologies and Methods
+  
   **Programming Languages:** Python for implementing deep reinforcement learning algorithms.
+  
   **Deep RL Algorithms:** Utilization of state-of-the-art deep reinforcement learning techniques.
+  
   **AI and Machine Learning:** Integration of AI models that learn and adapt through gameplay.
+  
   **Iterative Learning:** Continuous improvement through repeated gameplays and learning cycles.
 
 **Practical Application**
